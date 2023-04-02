@@ -1,7 +1,6 @@
 import threading
 import requests as r
 
-
 def stresser(host):
     while True:
         try:
